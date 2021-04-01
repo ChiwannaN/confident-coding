@@ -1,1 +1,20 @@
-i
+<!DOCTYPE html>
+<html>
+<head>
+<title>This is my First Webpage<title>
+</head>
+<body>
+<p>Hello World<p>
+<p>This text ill be<strong>bold</strong></p>
+<p>This text ill be<em>italic</em></p>
+<p>This text ill be<sup>supersript</sup></p>
+<p>This text ill be<sub>subscript</sub></p>
+<p>This text ill be<del>struck-through</del></p>
+<ul>
+<li>Red</li>
+<li>Yellow</li>
+<li>Blue</li>
+</ul>
+<img src="http://completewebdevelopercourse.com/star.png"height=300 width=400>
+</body>
+</html>
