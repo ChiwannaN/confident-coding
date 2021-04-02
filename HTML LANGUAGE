@@ -15,8 +15,6 @@
 <li>Yellow</li>
 <li>Blue</li>
 </ul>
-<input type="text">
-<input type="password">
 
 <p><input type="checkbox">Red</p>
 <p><input type="checkbox">Yellow</p>
@@ -26,24 +24,26 @@
 <p><input type="radio">Medium</p>
 <p><input type="radio">Large</p>
 
-<select>
-<option>1</option>
-<option>2</option>
-<option>3</option>
-</select>
+<p><select>
+<option>Red</option>
+<option>Blue</option>
+<option>Green</option>
+</select></p>
 
 <textarea cols=50 rows=25></textarea>
 
 <img src="http://completewebdevelopercourse.com/star.png"height=300 width=400>
 
-<input type="submit" value="Click Me!">
+<p><input type="submit" value="Click Me!"></p>
+<p><header>Email Addresss</header>
+<input type="email address"></p>
+<p><header>Password</header>
+<input type="password"></p>
+<p><header>Gender</header>
+<input type="gender"></p>
+<p><input type="submit"></p>
 
-<input type="email address">
-<input type="password">
-<input type="gender">
-<input type="submit">
-
-<table border=1>
+<p><table border=1>
 
 <tr>
 <th width=200>Name</th>
@@ -74,22 +74,23 @@
 <td>Female</td>
 <td>23</td>
 </tr>
-</table>
+</table></p>
 
-<table>
-<th>First Name</th>
-<th>Surname
+<p><table border=1>
+<th width=200>First Name</th>
+<th width=100>Surname
 </th>
 <tr>
 <td>Chiwanna</td>
 <td>Nwobi</td>
 </tr>
-</table>
+</table></p>
 
-<a href="http://www.google.ca">Search the Web</a>
-<a href="http://www.google.ca" target=blank>Search the Web</a>
+<p><a href="http://www.google.ca">Search the Web</a></p>
+<p><a href="http://www.google.ca" target=blank>Search the Web</a></p>
 
-<iframe src="http://wikipedia.org"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7VKtKOZoGY0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 &#9786;
 &copy;
