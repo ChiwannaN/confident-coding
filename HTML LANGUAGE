@@ -5,11 +5,11 @@
 </head>
 <body>
 <p><h2>Hello World</h2><p>
-<p>This text will be<strong>bold</strong></p>
-<p>This text will be<em>italic</em></p>
-<p>This text will be<sup>supersript</sup></p>
-<p>This text will be<sub>subscript</sub></p>
-<p>This text will be<del>struck-through</del></p>
+<p>This text will be <strong>bold</strong></p>
+<p>This text will be <em>italic</em></p>
+<p>This text will be <sup>supersript</sup></p>
+<p>This text will be <sub>subscript</sub></p>
+<p>This text will be <del>struck-through</del></p>
 <ul>
 <li>Red</li>
 <li>Yellow</li>
@@ -88,7 +88,9 @@
 </tr>
 </table></p>
 
+<!--Not working-->
 <p><a href="http://www.google.ca">Search the Web</a></p>
+<!--Opens new tab-->
 <p><a href="http://www.google.ca" target=blank>Search the Web</a></p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7VKtKOZoGY0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
