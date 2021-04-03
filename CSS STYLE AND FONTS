@@ -50,8 +50,12 @@ ex. a:hover{style link when hovered over;}-->
 <p>This text is <span id="bold">bold</span> 
 and this is <span id="italic">italic</span> 
 and this is <span id="underlined">underlined</span>.</p>
+
 <a href="http://www.google.com" target="blank">CLICK ME TO OPEN NEW TAB.</a>
+
 </body>
+
 <a></a>
 <p></p>
+
 </html>
