@@ -1,31 +1,49 @@
 <!DOCTYPE html>
+
 <html>
+
 <head>
+
 <title>My First Webpage</title>
+
 <style>
+
 p {
 color:green;
 }
+
 h1 {
 color:purple;
 }
+
 .blue{
 color:blue;
 }
+
 #pink{
 color:pink;
 }
-<!--. is short for class-->
-<!--# is short for id-->
-<!--cascading- rules relating to "class" and "id" will always trump those applied to element types-->
+
+<!--. is short for class
+//# is short for id
+//cascading- rules relating to "class" and "id" will always trump those applied to element types
 //when removed other elements no longer trumped 
+
 </style>
+
 </head>
+
 <body>
+
 <h1>My First Webpage</h1>
+
 <p class="blue"> I love HTML</p>
+
 <p id="pink"> I love CSS</p>
+
+</body>
+
 <p></p>
 <!---->
-</body>
+
 </html>
