@@ -47,7 +47,9 @@
 </select></p>
 
 <textarea cols=50 rows=25></textarea>
-<img src="http://completewebdevelopercourse.com/star.png"height=300 width=400>
+
+<img src="http://completewebdevelopercourse.com/star.png" height=300 width=400>
+
 <p><input type="submit" value="Click Me!"></p>
 
 <p border><header>Email Addresss</header>
@@ -109,7 +111,7 @@
 </p>
 
 <p>
-<a href="http://www.google.com" target=blank>Search the Web</a>
+<a href="http://www.google.com" target=_blank>Search the Web</a>
 </p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7VKtKOZoGY0" 
@@ -121,13 +123,13 @@ clipboard-write; encrypted-media; gyroscope;picture-in-picture" allowfullscreen>
 &#169;
 
 </body>
-
+<!-- a element =anchor/ href=hypertext reference-->
 <!--page 33 add image not working. Check other sources-
 <img src="http://completewebdevelopercourse.com/star.png"height=300 width=400>-->
 <!--table= table header, table row, table data-->
 <!--Not working <p>
 <a href="http://www.google.com">Search the Web</a>
 </p> -->
-<!--target=blank /Opens new tab-->
+<!--target=_blank /Opens new tab-->
 
 </html>
