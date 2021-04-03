@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<title>My First Webpage</title>
+
+<style>
+
+.divA {
+background-color:#765481;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  margin:50px;
+  
+}
+
+.divB {
+background-color:#765481;
+  width: 200px;
+  height: 200px;
+  border: 10px dashed pink;
+}
+<!--border= solid,ridge,dotted,groove,dashed,
+/ex. border: 5px solid grey;
+/border-radius: 5 or 10px;
+/50%= circle
+/
+-->
+</style>
+
+</head>
+
+<body>
+
+<div class="divA">
+
+<p>I'm divA</p>
+
+</div>
+<div class="divB">
+
+<p>I'm divB</p>
+
+</div>
+
+</body>
+
+</html>
