@@ -4,18 +4,23 @@
 <title>My First Webpage</title>
 <style>
 p {
-color:blue;
+color:purple;
 }
 h1 {
 color:red;
 }
 </style>
-<!---THIS IS INLINE CSS/ not good need to mess with HTML to make changes.
-ex.<p style = "color:blue"> I LOVE HTML.</p>-->
+<!---INLINE CSS 
+ex.<p style = "color:blue"> I LOVE HTML.</p>
+/bad with HTML - internal CSS preferred 
+ex.p {
+color:purple; + class and id).
+-->
 </head>
 <body>
-<p> I love HTML</p>
-<h1> I love CSS</h1>
+<h1 >My First Webpage</h1>
+<p style= "color:blue"> I love HTML</p>
+<p> I love CSS</p>
 <p></p>
 </body>
 </html>
