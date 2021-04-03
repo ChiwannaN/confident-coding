@@ -8,15 +8,15 @@
 
 </head>
 
-<!--HTML= markup language /can change content and layout but limited interactivity-->
-<!--header contains title, description, style, and character set-->
-<!--Six different heading sizes. ex <h6>-->
-<!--<p> paragraph tag/contains normal text/seperated by small gap-->
-<!--<ul>unordered list or <ol>ordered list(numbered), w <li> list items-->
-<!--attributes = gives browser more info on how to display <img>-->
-<!--"radio" select one option-->
-<!--<input type="passwords"> input hidden-->
-<!--<select> drop down menu-->
+<!--HTML= markup language /can change content and layout but limited interactivity
+//header contains title, description, style, and character set
+//Six different heading sizes. ex <h6>
+//paragraph tag/contains normal text/seperated by small gap
+//<ul>unordered list or <ol>ordered list(numbered), w <li> list items
+//attributes = gives browser more info on how to display <img>
+//"radio" select one option
+//<input type="passwords"> input hidden
+//<select> drop down menu-->
 
 <body>
 
@@ -124,13 +124,11 @@ clipboard-write; encrypted-media; gyroscope;picture-in-picture" allowfullscreen>
 &#169;
 
 </body>
-<!-- a element =anchor/ href=hypertext reference-->
-<!--page 33 add image not working. Check other sources-
-<img src="http://completewebdevelopercourse.com/star.png"height=300 width=400>-->
-<!--table= table header, table row, table data-->
-<!--Not working <p>
-<a href="http://www.google.com">Search the Web</a>
-</p> -->
-<!--target=_blank /Opens new tab-->
+<!--a element =anchor/ href=hypertext reference
+//page 33 add image not working. Check other sources
+<img src="http://completewebdevelopercourse.com/star.png"height=300 width=400>
+//table= table header, table row, table data
+//Not working <p><a href="http://www.google.com">Search the Web</a></p>
+//target=_blank /Opens new tab-->
 
 </html>
