@@ -10,11 +10,28 @@
 
 <body>
 
-<button>Click Me!</button>
+"<button id="click-me">!Click Me!</button>"
+
+<script> 
+doument.getElementById("click-me").onclick = function() {
+alert("Hello Natasha!")
+}
+</script>
 
 </body>
 
-client-side language
-develop full, interactive apps and websites
+<!-- JS= client-side language
+//develop full, interactive apps and websites
+//onclick attribute allows us to write JS an run when button clicked
+//alert command = create popup window with message for user within 
+//command followed by brackets or parenthese with command information
+//internal JS "<button onclick='alert("Hello Natasha!")'>Click Me!</button>" messy 
+//use internal instead / <script>
+//document = looking on HTML page
+//getElementById("click-me")= gets element by id
+//onclick=function *= write and run JS to achieve function
+//function= code that does something
+//()=function values
+//{}= code for the function-->
 
 </html>
