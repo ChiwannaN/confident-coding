@@ -1,26 +1,44 @@
 <!DOCTYPE html>
+
 <html>
+
 <head>
+
 <title>My First Webpage</title>
+
 <style>
+
 p {
 color:purple;
 }
 h1 {
 color:red;
 }
+
 </style>
-<!---INLINE CSS 
+
+<!-- CSS = keep styling info from page content so its easy to adjust style
+//INLINE CSS style attribue
 ex.<p style = "color:blue"> I LOVE HTML.</p>
-/bad with HTML - internal CSS preferred 
-ex.p {
-color:purple; + class and id).
--->
+/bad have to do each paragraph seperately
+//use INTERNAL CSS instead / can also use h1,.(class), #(id)
+ ex. <style>
+p {
+color:purple;
+}
+//class=select elements more precise 
+//id=apply to element tha only appears once on webpage-->
+
 </head>
+
 <body>
+
 <h1 >My First Webpage</h1>
 <p style= "color:blue"> I love HTML</p>
 <p> I love CSS</p>
-<p></p>
+
 </body>
+
+<p></p>
+
 </html>
