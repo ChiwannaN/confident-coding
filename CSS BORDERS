@@ -34,14 +34,11 @@ background-color:#765481;
 <body>
 
 <div class="divA">
-
 <p>I'm divA</p>
-
 </div>
+
 <div class="divB">
-
 <p>I'm divB</p>
-
 </div>
 
 </body>
