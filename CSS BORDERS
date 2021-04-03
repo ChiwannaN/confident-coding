@@ -26,9 +26,7 @@ background-color:#765481;
 <!--border= solid,ridge,dotted,groove,dashed,
 /ex. border: 5px solid grey;
 /border-radius: 5 or 10px;
-/50%= circle
-/
--->
+/50% = circle -->
 </style>
 
 </head>
