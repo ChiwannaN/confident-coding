@@ -7,15 +7,15 @@ p {
 color:green;
 }
 h1 {
-color:yellow;
+color:purple;
 }
 .blue{
 color:blue;
 }
-<!--. is short for class-->
 #pink{
 color:pink;
 }
+<!--. is short for class-->
 <!--# is short for id-->
 <!--cascading- rules relating to "class" and "id" will always trump those applied to element types-->
 </style>
