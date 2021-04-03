@@ -23,6 +23,7 @@ background-color:#765481;
   height: 200px;
   border: 10px dashed pink;
 }
+
 <!--border= solid,ridge,dotted,groove,dashed,
 /ex. border: 5px solid grey;
 /border-radius: 5 or 10px;
