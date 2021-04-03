@@ -8,6 +8,7 @@
 
 </head>
 
+<!--HTML= markup language /can change content and layout but limited interactivity-->
 <!--header contains title, description, style, and character set-->
 <!--Six different heading sizes. ex <h6>-->
 <!--<p> paragraph tag/contains normal text/seperated by small gap-->
