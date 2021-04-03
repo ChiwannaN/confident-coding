@@ -1,15 +1,31 @@
 <!DOCTYPE html>
+
 <html>
+
 <head>
+
 <title>This is my First Webpage</title>
+
 </head>
+
+<!--header contains title, description, style, and character set-->
+<!--Six different heading sizes. ex <h6>-->
+<!--<p> paragraph tag/contains normal text/seperated by small gap-->
+<!--<ul>unordered list or <ol>ordered list(numbered), w <li> list items-->
+<!--attributes = gives browser more info on how to display <img>-->
+<!--"radio" select one option-->
+<!--<input type="passwords"> input hidden-->
+<!--<select> drop down menu-->
+
 <body>
+
 <p><h2>Hello World</h2><p>
 <p>This text will be <strong>bold</strong></p>
 <p>This text will be <em>italic</em></p>
 <p>This text will be <sup>supersript</sup></p>
 <p>This text will be <sub>subscript</sub></p>
 <p>This text will be <del>struck-through</del></p>
+
 <ul>
 <li>Red</li>
 <li>Yellow</li>
@@ -31,13 +47,10 @@
 </select></p>
 
 <textarea cols=50 rows=25></textarea>
-
-<!--page 33 add image not working. Check other sources-->
 <img src="http://completewebdevelopercourse.com/star.png"height=300 width=400>
-
-
 <p><input type="submit" value="Click Me!"></p>
-<p><header>Email Addresss</header>
+
+<p border><header>Email Addresss</header>
 <input type="email address"></p>
 <p><header>Password</header>
 <input type="password"></p>
@@ -45,8 +58,8 @@
 <input type="gender"></p>
 <p><input type="submit"></p>
 
-<p><table border=1>
-
+<p>
+<table border=1>
 <tr>
 <th width=200>Name</th>
 <th width=100>Gender</th>
@@ -76,9 +89,11 @@
 <td>Female</td>
 <td>23</td>
 </tr>
-</table></p>
+</table>
+</p>
 
-<p><table border=1>
+<p>
+<table border=1>
 <th width=200>First Name</th>
 <th width=100>Surname
 </th>
@@ -86,19 +101,33 @@
 <td>Chiwanna</td>
 <td>Nwobi</td>
 </tr>
-</table></p>
+</table>
+</p>
 
-<!--Not working-->
-<p><a href="http://www.google.ca">Search the Web</a></p>
-<!--Opens new tab-->
-<p><a href="http://www.google.ca" target=blank>Search the Web</a></p>
+<p>
+<a href="http://www.google.com">Search the Web</a>
+</p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7VKtKOZoGY0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p>
+<a href="http://www.google.com" target=blank>Search the Web</a>
+</p>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7VKtKOZoGY0" 
+title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; 
+clipboard-write; encrypted-media; gyroscope;picture-in-picture" allowfullscreen></iframe>
 
 &#9786;
 &copy;
 &#169;
 
 </body>
+
+<!--page 33 add image not working. Check other sources-
+<img src="http://completewebdevelopercourse.com/star.png"height=300 width=400>-->
+<!--table= table header, table row, table data-->
+<!--Not working <p>
+<a href="http://www.google.com">Search the Web</a>
+</p> -->
+<!--target=blank /Opens new tab-->
+
 </html>
