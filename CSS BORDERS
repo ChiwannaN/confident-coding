@@ -14,7 +14,6 @@ background-color:#765481;
   height: 200px;
   border-radius: 50%;
   margin:50px;
-  
 }
 
 .divB {
@@ -28,6 +27,7 @@ background-color:#765481;
 /ex. border: 5px solid grey;
 /border-radius: 5 or 10px;
 /50% = circle -->
+
 </style>
 
 </head>
