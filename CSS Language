@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My First Webpage</title>
+<style>
+p {
+color:blue;
+}
+h1 {
+color:red;
+}
+</style>
+<!---THIS IS INLINE CSS/ not good need to mess with HTML to make changes.
+ex.<p style = "color:blue"> I LOVE HTML.</p>-->
+</head>
+<body>
+<p> I love HTML</p>
+<h1> I love CSS</h1>
+<p></p>
+</body>
+</html>
