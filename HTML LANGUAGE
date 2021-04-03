@@ -2,14 +2,6 @@
 <html>
 <head>
 <title>This is my First Webpage</title>
-<style>
-body{
-background-color:black;
-text-align:center;
-color:white;
-font-family:Arial;
-}
-</style>
 </head>
 <body>
 <p><h2>Hello World</h2><p>
@@ -28,9 +20,9 @@ font-family:Arial;
 <p><input type="checkbox">Yellow</p>
 <p><input type="checkbox">Blue</p>
 
-<p><input type="radio">Small</p>
-<p><input type="radio">Medium</p>
-<p><input type="radio">Large</p>
+<p><input type="radio" name ="size">Small</p>
+<p><input type="radio" name ="size">Medium</p>
+<p><input type="radio" name ="size">Large</p>
 
 <p><select>
 <option>Red</option>
@@ -40,7 +32,9 @@ font-family:Arial;
 
 <textarea cols=50 rows=25></textarea>
 
+<!--page 33 add image not working. Check other sources-->
 <img src="http://completewebdevelopercourse.com/star.png"height=300 width=400>
+
 
 <p><input type="submit" value="Click Me!"></p>
 <p><header>Email Addresss</header>
