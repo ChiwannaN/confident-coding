@@ -18,6 +18,7 @@ color:pink;
 <!--. is short for class-->
 <!--# is short for id-->
 <!--cascading- rules relating to "class" and "id" will always trump those applied to element types-->
+//when removed other elements no longer trumped 
 </style>
 </head>
 <body>
