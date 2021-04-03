@@ -1,8 +1,13 @@
 <!DOCTYPE html>
 <html>
+
+
 <head>
+
 <title>My First Webpage</title>
+
 <style>
+
 .divA {
 background-color:#765481;
   width: 200px;
@@ -10,37 +15,48 @@ background-color:#765481;
   margin: 20px;
   padding: 10px;
 }
+
 .divB {
   background-color:pink;
   width:220px;
   margin-top: 50px;
   margin-left: 100px;
 }
+
 p {
 margin:0;
 }
-<!--remove margin from p element w 0
-/negative values ex.-50px move the position of the div upwardto the left
-/position:absolute = other elements ignore its existence
-/margins easier way to position elements
-/float- position,top,left- margin all effect positioning
-ex.  float:right;
+
+<!--remove margin from <p> with 0
+//negative values ex.-50px move the position of the div upwardto the left
+//position:absolute = other elements ignore its existence
+//margins easier way to position elements
+//float- position,top,left- margin all effect positioning
+ex. float:right;
 ex. position:relative;
   top: 40px;
   left: 30px;
-/padding leaves gap between the text and edge of div
--->
-<!--"https://html-color-codes.info" for HTML color codes-->
+//padding leaves gap between the text and edge of div
+//"https://html-color-codes.info" for HTML color codes-->
+
 </style>
+
 </head>
+
 <body>
+
 <div class="divA">
 <p>I'm divA</p>
 </div>
+
 <div class="divB">
 <p>I'm div B</p>
 </div>
+
 <p>This is some text</p>
-<p></p>
+
 </body>
+
+<p></p>
+
 </html>
