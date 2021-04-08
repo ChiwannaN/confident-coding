@@ -18,6 +18,9 @@ alert("Hello Natasha!")
 }
 </script>
 
+<p id="text">This is some text</p>
+<a id="my-link">Turn text red</a>
+
 </body>
 
 <!-- JS= client-side language
